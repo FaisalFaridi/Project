@@ -1,0 +1,267 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    padding-left: 155px;
+    color: black;
+    font-size: 30px;
+}
+
+.navbar-toggler {
+    color: black;
+    background-color: black;
+    margin-right: 10px;
+}
+
+.navbar-nav {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav-link {
+    color: black;
+}
+
+
+
+
+
+/* Title Section */
+
+#title {
+    background-color: black;
+    text-align: center;
+}
+
+.row {
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.title-heading1 {
+        color: #ffbd39;
+        padding-top: 50px;
+        font-size: 20px;
+        font-family: "Montserrat",sans-serif;
+}
+
+.title-heading2 {
+    color: white;
+    padding-top: 20px;
+    font-family: "Montserrat",sans-serif;
+}
+
+.title-h2 {
+    color: white;
+    padding-top: 20px;
+    font-family: "Montserrat",sans-serif;
+}
+
+span {
+    color: #ffbd39;
+}
+
+.profilepic {
+    height: 300px;
+    padding-top: 100px;
+}
+
+.servicebutton1 {
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-right: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* About Me */
+
+#Aboutme {
+    background-color: black;
+    padding: 3% 5%;
+    text-align: center;
+}
+
+.container-fluid1 {
+    padding: 0;
+}
+
+.aboutme-heading {
+    color: white;
+    padding-top: 50px;
+    font-family: "Ubuntu",sans-serif;
+}
+
+.about-para {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+/* Personal info section */
+
+
+.personal-info {
+    list-style: none;
+}
+
+h3 {
+    color: white;
+    padding-bottom: 30px;
+}
+
+
+/* Resume section */
+
+#resume {
+    background-color: black;
+    padding: 3% 7%;
+    text-align: center;
+}
+
+.resume-h1 {
+    color: white;
+    margin-top: 30px;
+}
+
+.resume-para {
+    color: white;
+}
+
+.resume-column {
+    color: white;
+    background-color: #191919;
+    margin: 20px 0 20px 0;
+    padding: 15px 0 15px 0;
+}
+
+.dates {
+    color: #ffbd39;
+}
+
+
+/* SERVICES SECTION */
+
+#services {
+    background-color: black;
+    text-align: center;
+    padding: 3% 10%;
+}
+
+.card {
+    background-color: #191919;
+    margin-top: 50px;
+}
+
+.service-heading {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.basic-plan {
+    color: #ffbd39;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 2rem;
+}
+
+
+
+.grey {
+    color: grey;
+}
+
+.options1 {
+    text-align: center;
+}
+
+.order-button {
+    width: 100%;
+}
+
+
+/* Contact section  */
+
+
+#Contact {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/852/804/original/abstract-blue-background-simple-design-for-your-website-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.contact-heading {
+    color: white;
+    font-size: 2rem;
+    padding: 50px 0 0 0;
+    text-align: center;
+}
+
+.avail {
+    color: #ffbd39;
+    text-align: center;
+}
+
+.contact-button {
+    color: black;
+}
+
+/* form */
+
+input[type=text], select {
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    width: 100%;
+  background-color: #ffbd39;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #ffbd38;
+  }
+
+.form-div {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+  .label1 {
+    color: white;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
